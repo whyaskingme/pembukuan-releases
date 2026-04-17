@@ -3,11 +3,11 @@
   <channel>
     <title>GetAho</title>
     <item>
-      <title>Version 1.1.18</title>
-      <pubDate>Sat, 11 Apr 2026 06:02:20 +0000</pubDate>
-      <sparkle:version>1.1.18</sparkle:version>
+      <title>Version 1.1.19</title>
+      <pubDate>Fri, 17 Apr 2026 09:59:43 +0000</pubDate>
+      <sparkle:version>1.1.19</sparkle:version>
       <enclosure
-        url="https://github.com/whyaskingme/pembukuan-releases/releases/download/v1.1.18/GetAho-Setup-1.1.18.exe"
+        url="https://github.com/whyaskingme/pembukuan-releases/releases/download/v1.1.19/GetAho-Setup-1.1.19.exe"
         sparkle:os="windows"
         type="application/octet-stream"/>
     </item>
